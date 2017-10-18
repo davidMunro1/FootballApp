@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../Football/Football.xcodeproj">
+      location = "group:FootballAPI/FootballAPI.xcodeproj">
    </FileRef>
 </Workspace>
